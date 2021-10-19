@@ -1,0 +1,13 @@
+Create conda environment with python 3.5
+conda create -n vision_env python=3.5
+
+change <=  in requirements.txt to ==
+tensorflow==1.5
+
+
+pip install -r requirements.txt
+
+
+
+For annotation
+https://thebinarynotes.com/how-to-train-mask-r-cnn-on-the-custom-dataset/
