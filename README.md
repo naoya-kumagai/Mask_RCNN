@@ -1,3 +1,5 @@
+Tested on Python 3.7
+
 To train on bouldering hold images, run
 
 python hold.py train --dataset=../../dataset --weights=coco
